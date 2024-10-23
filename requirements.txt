@@ -1,0 +1,5 @@
+transformers==4.33.2  # For Hugging Face's Transformer models
+torch>=1.13.1         # PyTorch backend for LLaMA-3
+datasets==2.14.0      # Hugging Face datasets library
+accelerate==0.21.0    # For distributed training and inference
+scipy==1.11.2         # Used for some internal model operations
